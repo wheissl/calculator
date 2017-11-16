@@ -16,7 +16,7 @@ int main()
 		int rval;
 		char op;
 		cin >> lval;               // read leftmost operand
-		if (!cin) cerr << "no first operand";
+		if (!lval) cerr << "no first operand";
 		while (cin >> op) {        // read operator and right-hand operand repeatedly
 			cin >> rval;
 			if (!cin) cerr << "no second operand";
