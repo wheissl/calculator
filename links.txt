@@ -1,0 +1,4 @@
+http://beta.gitflowchart.com/chart/github/nvie/gitflow
+http://beta.gitflowchart.com/chart/github/wheissl/calculator
+https://habrahabr.ru/post/106912/
+http://joxi.ru/5md4jdbHvnXPLm
